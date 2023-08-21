@@ -18,7 +18,7 @@ Steps:
    - Dimension reduction-PCA
 8. Moddeling
     - Random Forest
-    - Stacking model (random forest, SVC, K-Neigbor, Logistic regerssion)
+    - Stacking model (random forest, SVC, K-Neighbors, Logistic regerssion)
 9. Measure accuracy of models
 10. Conclusion
 
