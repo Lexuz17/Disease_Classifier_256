@@ -23,7 +23,7 @@ Steps:
 10. Conclusion
 
 ## **Installation**
-1. Clone the repository: `https://github.com/Lexuz17/Disease_Classifier_256.git`
+1. Clone the repository: `git clone https://github.com/Lexuz17/Disease_Classifier_256.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## **Results and Findings**
